@@ -1,0 +1,3 @@
+[submodule "sequential_sentence_classification"]
+	path = sequential_sentence_classification
+	url = https://github.com/allenai/sequential_sentence_classification.git
